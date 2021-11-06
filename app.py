@@ -1,3 +1,5 @@
 print("Hello Uganda!")
 print("How is the weather?")
 print("Hopefully you are ok!")
+print("It is nice hearing from you :)")
+print("Hope to meet you soon")
